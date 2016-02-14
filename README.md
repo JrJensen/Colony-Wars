@@ -4,11 +4,6 @@ Reprogramming of popular minecraft mini-game Minecraft Colony Wars. Supports all
 Forest Hills map recreations, and schematics for all the buildings.
 
 # Information
-### Maps
-* **world**: This map is the default lobby for Colony Wars.
-* **canyon**: Recreation of the canyon map from the original
-* **forest_hills**: Recreation of the forest hills map from the original
-
 When the game starts, the selected map will be copied to the "playing" folder, and all players teleported into it.
 The folder should be deleted when the game ends.
 
@@ -25,5 +20,4 @@ Required to allow cloakers to be attacked while invisible
 
 ### Plugin Setup
 * Copy the plugin jar to your server's plugin folder.
-* Copy the maps found in the resources/maps folder to the root directory of your server.
-* Copy the schematics found in the resources/schematics folder to the plugins/ColonyWars folder of your server.
+* Download maps/schematics from https://files.ithinkrok.com/cw_resources.zip and follow the readme.md to install them
