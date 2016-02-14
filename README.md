@@ -21,3 +21,4 @@ Required to allow cloakers to be attacked while invisible
 ### Plugin Setup
 * Copy the plugin jar to your server's plugin folder.
 * Download maps/schematics from https://files.ithinkrok.com/cw_resources.zip and follow the readme.md to install them
+* Create a directory called "maps" in the "plugins/ColonyWars" folder
