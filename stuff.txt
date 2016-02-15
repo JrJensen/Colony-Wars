@@ -10,7 +10,7 @@ LOW PRIORITY / INVESTIGATE:
  - Destroying a building while it is built does not decrement building now counter
  - eating flicker glitch
  - Zombie tab list names
-
+- test
 FUTURE:
  - Named gamegroup configs that can be used to spawn varying gamegroups
  - Commands per gamegroup
